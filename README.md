@@ -43,6 +43,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tabish-akhtar-4492b5162"><img src="https://img.shields.io/badge/-Tabish%20Akhtar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samvita-karkal-354628168/"><img src="https://img.shields.io/badge/-Samvita%20Karkal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:samvitaskarkal@gmail.com"><img src="https://img.shields.io/badge/-samvitaskarkal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
