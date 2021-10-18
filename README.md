@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I work as a Software Engineer Intern at [BigBinary](https://www.bigbinary.com). 
-- 🤔 &nbsp; Exploring new technologies and developing web apps.
+- 🔭 &nbsp; I work as an Application Developer at [Higgs Boson Health](https://www.higgsbosonhealth.com/). 
+- 🤔 &nbsp; Code enthusiast. In my free time, you will find me looking for new things to learn, hiking, exercising, or editing photos. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
