@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; I work as an Application Developer at [Higgs Boson Health](https://www.higgsbosonhealth.com/). 
-- 🤔 &nbsp; Code enthusiast. In my free time, you will find me looking for new things to learn, hiking, exercising, or editing photos. 
+- 🤔 &nbsp; Coding enthusiast. In my free time, you will find me looking for new things to learn, hiking, exercising, or editing photos. 
 
 # <h3> 🛠 &nbsp;Tech Stack</h3>
 
